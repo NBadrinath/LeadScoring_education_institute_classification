@@ -29,3 +29,5 @@ There are quite a few goals for this case study.
 [Data Dictionary](https://github.com/NBadrinath/LeadScoring_education_institute_classification/blob/main/Leads%20Data%20Dictionary.xlsx)
 
 (done as a project in data science course from upgrad)
+
+
